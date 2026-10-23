@@ -75,3 +75,32 @@ Watch the following video from my channel:
 - [Watch Part 1 on YouTube](#)
 
 Make sure to subscribe to the channel for more tutorials and updates!
+
+
+application of git -
+
+Software development: To manage code while building applications.
+
+
+
+Team projects: Multiple developers can work on the same project.
+
+
+
+Track changes: To see what changes you made in your code.
+
+
+
+Restore code: To return to an earlier version if something goes wrong.
+
+
+
+Project management: To maintain the history of a project.
+
+
+
+Open-source projects: To contribute to projects developed by people worldwide.
+
+
+
+College projects: To store and manage your mini-projects and major projects.
