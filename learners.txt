@@ -2,5 +2,6 @@ Enter your name in a new line and raise a PR.
 
 Darshan 
 Chandan gowda
+Narendra gowda
 Rahul G
 
