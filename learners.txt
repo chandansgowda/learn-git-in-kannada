@@ -1,7 +1,7 @@
 Enter your name in a new line and raise a PR.
 
-Chandan Gowda
-Darshan Gowda
-Narendra Kumar
-Nakula M K
-Sahadeva M K
+Darshan 
+Chandan gowda
+Narendra gowda
+Rahul G
+
