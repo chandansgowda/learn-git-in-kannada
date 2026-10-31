@@ -74,6 +74,6 @@ To open one: push your branch to your fork, then go to the original repository o
 
 Watch the following video from my channel:
 
-- [Watch Part 6 on YouTube](#)
+- [Watch Part 6 on YouTube](https://youtu.be/pvsnfwk3Ids)
 
 Make sure to subscribe to the channel for more tutorials and updates!
