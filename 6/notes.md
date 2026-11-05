@@ -76,4 +76,4 @@ Watch the following video from my channel:
 
 - [Watch Part 6 on YouTube](#)
 
-Make sure to subscribe to the channel for more tutorials and updates!
+Make sure to subscribe to the channel for more tutorials and updates! Do like and share with your friends
