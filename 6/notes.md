@@ -49,6 +49,9 @@ A Pull Request, or PR, is a formal request asking the maintainers of the origina
 
 To open one: push your branch to your fork, then go to the original repository on GitHub, it usually shows a banner suggesting you open a PR from your recently pushed branch. Alternatively, use the **Contribute** or **Pull Requests** tab and click **New Pull Request**.
 
+### **-Workflow-**
+Clone → Branch → Change → Add → Commit → Push → Pull Request → Merge.
+
 ### **7. Writing a Good Pull Request**
 
 - **A clear title**, describing what the PR does in one line
