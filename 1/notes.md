@@ -1,4 +1,6 @@
 ## **Introduction to Git**
+{Note}:1.write a short notes of what I teach which will be helpful in future.
+     2.Try to make notes in your own words.
 
 ### **1. The Problem Every Developer Has Faced**
 
