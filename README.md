@@ -3,7 +3,7 @@
 
 # 💛❤️ learn-git-in-kannada
 
-### ಗಿಟ್ ಕಲಿಯೋಣ ಬನ್ನಿ! (Let's learn Git!)
+### ಗಿಟ್ ಕಲಿಯೋಣ ಬನ್ನಿ!
 
 Learn **Git & GitHub** from zero, in **namma Kannada**.
 No jargon overload. No fear of the terminal. Just step by step.
@@ -61,4 +61,4 @@ Even fixing one typo counts. 💛
 
 If this helped you, give the repo a ⭐ and share it with a friend who's starting out.
 
-**ಧನ್ಯವಾದಗಳು!** (Thank you!)
+ಧನ್ಯವಾದಗಳು!
