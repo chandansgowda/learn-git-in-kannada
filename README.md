@@ -1,3 +1,4 @@
+
 # learn-git-in-kannada
 <div align="center">
 
@@ -10,7 +11,6 @@ No jargon overload. No fear of the terminal. Just step by step.
 
 </div>
 
----
 
 ## 🤔 Why this exists
 
@@ -62,3 +62,33 @@ Even fixing one typo counts. 💛
 If this helped you, give the repo a ⭐ and share it with a friend who's starting out.
 
 ಧನ್ಯವಾದಗಳು!
+# Learn Git & GitHub in Kannada
+
+Your one-stop resource to learn git &amp; github from scratch in namma kannada 💛❤️
+
+Watch the Course on YouTube: [Engineering in Kannada](https://www.youtube.com/@EngineeringinKannada)
+
+## 📚 About the Course
+
+This course is designed to teach **Git & GitHub** from **zero to hero**, completely in **Kannada**, covering A-Z. 
+Whether you're a beginner or someone looking to solidify your git & github foundation, this course is structured to help you learn efficiently in kannada.
+
+## 🔗 Useful Links
+
+- 💬 Discord Community: [Join our Discord](https://discord.gg/w5mYV8cpZY)
+- 📺 YouTube: [@Engineering_in_Kannada](https://www.youtube.com/@EngineeringinKannada)
+- 📸 Instagram: [@engineering_in_kannada](https://instagram.com/engineering_in_kannada)
+- 🧠 Personal Motivation Channel: [@chandan.speaks](https://instagram.com/chandan.speaks)
+
+## 🤝 Contributions
+
+Feel free to open an issue or pull request if:
+
+* You found a typo or bug in the notes
+* You want to translate or improve a section
+
+Let’s build the best Git & GitHub resource in Kannada, together! ❤️
+
+## 📜 License
+
+This repository is licensed under the [MIT License](LICENSE).
