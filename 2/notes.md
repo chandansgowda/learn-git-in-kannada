@@ -61,6 +61,42 @@ git config --global user.email "you@example.com"
 4. Your Git identity (name and email) needs to be set up once, before your first commit
 
 ---
+## 6. Basic Git Workflow
+
+After creating a Git repository, developers commonly follow these steps to save and upload their changes.
+
+### Step 1: Check Repository Status
+```bash
+git status
+```
+Checks which files have been modified or are ready to commit.
+
+### Step 2: Stage Your Changes
+```bash
+git add .
+```
+Adds all modified and new files to the staging area.
+
+### Step 3: Commit Your Changes
+```bash
+git commit -m "Added beginner guide"
+```
+Saves your changes with a meaningful commit message.
+
+### Step 4: Push Changes to GitHub
+```bash
+git push origin main
+```
+Uploads your local commits to the remote GitHub repository.
+
+### Step 5: Pull Latest Changes
+```bash
+git pull origin main
+```
+Fetches and integrates the latest changes from the remote repository.
+
+### Important Note
+Always write meaningful commit messages so that other developers can easily understand what changes were made.
 
 ### **Homework**
 
