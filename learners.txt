@@ -4,6 +4,7 @@ Enter your name in a new line and raise a PR.
 
 Kshathriya
 Mr.Shetty
+Charan R
 Chandan Gowda
 Darshan Gowda
 Anand Pattar
